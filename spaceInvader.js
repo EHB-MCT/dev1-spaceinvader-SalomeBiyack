@@ -42,3 +42,8 @@ drawRectangle();
 context.fillStyle="#7FFF00";
 context.rect(125,75,50,25);
 context.fill();
+
+drawRectangle();
+context.fillStyle="#7FFF00";
+context.rect(125,100,50,25);
+context.fill();
